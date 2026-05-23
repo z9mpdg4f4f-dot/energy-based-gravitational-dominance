@@ -154,7 +154,7 @@ Related work:
 
 Ömür Çarboğa
 
-Force-Based Gravitational Dominance in Planetary Systems Using Hill-Radius Scaling
+Force-Based Gravitational Dominance in the Solar System Using Hill-Radius Scaling
 
 2026
 

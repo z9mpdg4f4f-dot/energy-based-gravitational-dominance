@@ -45,7 +45,7 @@ S_F = F_body / F_sun
 
 The previous work investigated dominance using gravitational force balance and examined how force-based influence varies with Hill-radius scaling.
 
-### Present Study (May 2026)
+### Present Study (April 2026)
 
 Energy-based gravitational dominance:
 

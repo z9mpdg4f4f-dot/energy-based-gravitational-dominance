@@ -1,6 +1,17 @@
 # Energy-Based Gravitational Dominance in the Solar System
 
 A computational investigation of gravitational dominance in planetary systems using an energy-based framework combined with Hill-radius scaling.
+"Gravitational Dominance in Planetary Systems: An Energy -Based Hill-Radius Scaling Approach"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20385542.svg)](https://doi.org/10.5281/zenodo.20385542)
+
+
+## Author
+
+Ömür Çarboğa  
+2026
+
+
+## Overview
 
 This project explores how gravitational influence varies across planetary systems by comparing the gravitational potentials associated with celestial bodies and the Sun. Distances are normalized using the Hill radius, allowing systems spanning several orders of magnitude in mass to be analyzed within a common framework.
 
@@ -13,7 +24,6 @@ The numerical analysis examines:
 
 using Python-based simulations.
 
----
 
 ## Research Motivation
 
@@ -31,7 +41,6 @@ U = -GM/r
 
 This formulation provides an energy-based perspective on gravitational influence and allows comparison between geometric and energetic descriptions of planetary environments.
 
----
 
 ## Relation to Previous Work
 
@@ -55,7 +64,6 @@ The present work reformulates the analysis using gravitational potential energy 
 
 This transition allows investigation of how energetic influence differs from local force dominance and highlights important distinctions between geometric, force-based, and energetic interpretations of gravitational environments.
 
----
 
 ## Methodology
 
@@ -77,7 +85,6 @@ r << a
 
 allowing the particle–Sun distance to be approximated by the orbital radius of the analyzed body.
 
----
 
 ## Main Findings
 
@@ -89,7 +96,6 @@ Key results:
 - Hill-radius normalization provides geometric scaling but does not produce a universal energetic structure.
 - The existence of energetic dominance depends strongly on system mass and gravitational potential depth.
 
----
 
 ## Model Limitations
 
@@ -109,26 +115,6 @@ S_E = 1
 
 should be interpreted as an approximate indicator of energetic dominance rather than a precise dynamical stability boundary.
 
----
-
-## Repository Structure
-
-```text
-├── notebook.ipynb
-├── README.md
-├── LICENSE
-├── paper.pdf
-├── hill_radius.png
-├── comparative_energy_profiles.png
-├── Jupiter_energy_plot.png
-├── Earth_energy_plot.png
-├── Mars_energy_plot.png
-├── Bennu_energy_plot.png
-├── previous_work/
-│   └── force_based_gravitational_dominance.pdf
-```
-
----
 
 ## Requirements
 
@@ -138,40 +124,17 @@ Required Python libraries:
 pip install numpy matplotlib pandas
 ```
 
----
 
 ## Citation
 
 If you use this work, please cite:
 
 Ömür Çarboğa
-
-Energy-Based Gravitational Dominance in the Solar System Using Hill-Radius Scaling
-
+"Gravitational Dominance in Planetary Systems: An Energy-Based Hill-Radius Scaling Approach"
 2026
 
 Related work:
 
 Ömür Çarboğa
-
-Force-Based Gravitational Dominance in the Solar System Using Hill-Radius Scaling
-
-2026
-
----
-
-## Author
-
-Ömür Çarboğa
-
-Independent student researcher
-
-Research interests:
-
-- Aerospace Engineering
-- Astrophysics
-- Celestial Mechanics
-- Computational Physics
-- Space Systems
-
+"Gravitational Dominance in Planetary Systems: An Force-Based Hill-Radius Scaling Approach"
 2026
